@@ -37,3 +37,7 @@ Report for project Futebol. It is also my graduation thesis
 ### Chapter 5 - Solutions and main contributions
 
 [5.1. Find Matching Opponent Level](chap5/5.1.FindMatchingOpponentLevel.md)
+
+### Chapter 6 - Conclusions and future work
+
+[6. Conclusions and future work](chap6/6.ConclusionsAndFutureWork.md)
