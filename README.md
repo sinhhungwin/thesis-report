@@ -13,7 +13,7 @@ Report for project Futebol. It is also my graduation thesis
 
 [3.1. Theoretical Background](chap3/3.1.TheoreticalBackground.md)
 
-[3.2. Technology](chap0/3.2.Technology.md)
+[3.2. Technology](chap3/3.2.Technology.md)
 
 
 ### Chapter 5 - Solutions and main contributions
