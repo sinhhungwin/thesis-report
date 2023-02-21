@@ -27,7 +27,7 @@ Report for project Futebol. It is also my graduation thesis
 
 [2.4. Non-functional Requirements](chap2/2.4.Non-functionalRequirements.md)
 
-### Chapter 3 - Theoretical background and technology
+### Chapter 3 - Methodology
 
 [3.1. Theoretical Background](chap3/3.1.TheoreticalBackground.md)
 
